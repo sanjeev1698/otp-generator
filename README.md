@@ -1,2 +1,2 @@
 # otp-generator
-it generates a random number
+It generates a random number
